@@ -1,4 +1,3 @@
-layout_spectrum: 0.04753226274624467
 typography_spectrum: 0.1410946969408542
 color:
   brandStrength: 0.7353205964900553
@@ -11,5 +10,7 @@ color:
     - '#832C0B'
     - '#B27F4F'
     - '#30807F'
+layout_spectrum: 0.04753226274624467
 name: Zhokhov
+title: Andrey Zhokhov
 description: Portfolio Presentation
