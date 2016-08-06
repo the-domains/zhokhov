@@ -6,9 +6,9 @@ color:
   saturation: 0.5534599001985043
   rhythmicContrast: 0.8968854150734842
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#050505'
+    - '#4C4C4C'
+    - '#832C0B'
+    - '#B27F4F'
+    - '#30807F'
 name: Zhokhov
