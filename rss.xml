@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Andrey Zhokhov]]></title>
         <description><![CDATA[Andrey Zhokhov]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zhokhov/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 20:13:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Aug 2016 20:13:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zhokhov/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Lavf56.40.101</p>]]></description>
-            <link>undefinedlavf5640101/index.html</link>
+            <link>https://thegrid.ai/zhokhov/lavf5640101/index.html</link>
+            <guid isPermaLink="false">b2ad00a0-79ff-4d93-adcf-19dd3f9b3587</guid>
+            <pubDate>Sat, 06 Aug 2016 20:13:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lavf56.40.101</p>]]></description>
+            <link>https://thegrid.ai/zhokhov/lavf5640101/index.html</link>
             <guid isPermaLink="false">4f19687f-d6b9-4c22-b015-81b841507e40</guid>
             <pubDate>Sat, 06 Aug 2016 20:13:54 GMT</pubDate>
         </item>
